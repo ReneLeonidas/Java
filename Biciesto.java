@@ -5,8 +5,8 @@ public class Biciesto {
 		Scanner t = new Scanner(System.in);
 		int year, m4, m100, m400;
 
-
-		
+		// buble para el ingreso de informacion
+		// y determinar si es biciesto
 		do {
 			System.out.print("Ingrese anio: ");
 			year = t.nextInt();
