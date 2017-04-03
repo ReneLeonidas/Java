@@ -1,9 +1,10 @@
 import java.util.Scanner;
 
+// estudiante nota > 10 true
+// inasistencias < 3 true
+
 public class Booleanos {
   public static void main(String[] args) {
-    // estudiante aprueba si tiene una nota mayor a 10
-    // y tiene menos de 3 inasistencias
     boolean estadoNota, estadoAsistencia;
 
     int promedio, inasistencias;
